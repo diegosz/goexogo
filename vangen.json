@@ -2,17 +2,32 @@
     "domain": "go2.exolinked.com",
     "docsDomain": "pkg.go.dev",
     "repositories": [{
-        "prefix": "elib/ebytes",
-        "type": "git",
-        "hidden": false,
-        "url": "https://github.com/exolinked/goexogo_elib_ebytes",
-        "source": {
-            "home": "https://github.com/exolinked/goexogo_elib_ebytes",
-            "dir": "https://github.com/exolinked/goexogo_elib_ebytes/tree/main{/dir}",
-            "file": "https://github.com/exolinked/goexogo_elib_ebytes/blob/main{/dir}/{file}#L{line}"
+            "prefix": "elib/ebytes",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exolinked/goexogo_elib_ebytes",
+            "source": {
+                "home": "https://github.com/exolinked/goexogo_elib_ebytes",
+                "dir": "https://github.com/exolinked/goexogo_elib_ebytes/tree/main{/dir}",
+                "file": "https://github.com/exolinked/goexogo_elib_ebytes/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exolinked/goexogo_elib_ebytes"
+            }
         },
-        "website": {
-            "url": "https://github.com/exolinked/goexogo_elib_ebytes"
+        {
+            "prefix": "elib/efruta",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exolinked/goexogo_elib_efruta",
+            "source": {
+                "home": "https://github.com/exolinked/goexogo_elib_efruta",
+                "dir": "https://github.com/exolinked/goexogo_elib_efruta/tree/main{/dir}",
+                "file": "https://github.com/exolinked/goexogo_elib_efruta/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exolinked/goexogo_elib_efruta"
+            }
         }
-    }]
+    ]
 }
