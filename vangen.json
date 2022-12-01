@@ -1,0 +1,21 @@
+{
+    "domain": "go2.exolinked.com",
+    "docsDomain": "pkg.go.dev",
+    "repositories": [{
+        "prefix": "elib",
+        "subs": [
+            "ebytes"
+        ],
+        "type": "git",
+        "hidden": false,
+        "url": "https://github.com/exolinked/goexogo_elib_ebytes",
+        "source": {
+            "home": "https://github.com/exolinked/goexogo_elib_ebytes",
+            "dir": "https://github.com/exolinked/goexogo_elib_ebytes/tree/main{/dir}",
+            "file": "https://github.com/exolinked/goexogo_elib_ebytes/blob/main{/dir}/{file}#L{line}"
+        },
+        "website": {
+            "url": "https://github.com/exolinked/goexogo_elib_ebytes"
+        }
+    }]
+}
