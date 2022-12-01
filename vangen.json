@@ -2,10 +2,7 @@
     "domain": "go2.exolinked.com",
     "docsDomain": "pkg.go.dev",
     "repositories": [{
-        "prefix": "elib",
-        "subs": [
-            "ebytes"
-        ],
+        "prefix": "elib/ebytes",
         "type": "git",
         "hidden": false,
         "url": "https://github.com/exolinked/goexogo_elib_ebytes",
