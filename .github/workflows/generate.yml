@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Release
+    name: Generate
     runs-on: ubuntu-latest
 
     steps:
