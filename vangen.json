@@ -26,21 +26,7 @@
                 "file": "https://github.com/exolinked/goexogo_elib_efruta/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exolinked/goexogo_elib_efruta"
-            }
-        },
-        {
-            "prefix": "elib/acata2",
-            "type": "git",
-            "hidden": false,
-            "url": "https://github.com/exolinked/goexogo_elib_acata",
-            "source": {
-                "home": "https://github.com/exolinked/goexogo_elib_acata",
-                "dir": "https://github.com/exolinked/goexogo_elib_acata/tree/main{/dir}",
-                "file": "https://github.com/exolinked/goexogo_elib_acata/blob/main{/dir}/{file}#L{line}"
-            },
-            "website": {
-                "url": "https://github.com/exolinked/goexogo_elib_acata"
+                "url": "https://github.com/exolinked/goexogo_elib_efrutaTEST"
             }
         }
     ]
