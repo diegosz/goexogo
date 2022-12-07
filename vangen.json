@@ -1,6 +1,6 @@
 {
     "domain": "go.goexogo.com",
-    "docsDomain": "pkg.go.devTEST",
+    "docsDomain": "pkg.go.dev",
     "repositories": [{
             "prefix": "elib/ebytes",
             "type": "git",
