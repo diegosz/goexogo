@@ -252,6 +252,34 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog"
             }
+        },
+        {
+            "prefix": "elib/elogger-integration/pgx",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
+                "dir": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx"
+            }
+        },
+        {
+            "prefix": "elib/elogger-integration/pgx/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
+                "dir": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx"
+            }
         }
     ]
 }
