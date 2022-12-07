@@ -168,6 +168,34 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls"
             }
+        },
+        {
+            "prefix": "elib/eapp",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_eapp",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_eapp",
+                "dir": "https://github.com/exoar/goexogo_elib_eapp/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_eapp/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_eapp"
+            }
+        },
+        {
+            "prefix": "elib/eapp/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_eapp",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_eapp",
+                "dir": "https://github.com/exoar/goexogo_elib_eapp/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_eapp/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_eapp"
+            }
         }
     ]
 }
