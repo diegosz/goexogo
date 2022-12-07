@@ -1,6 +1,6 @@
 {
     "domain": "go.goexogo.com",
-    "docsDomain": "pkg.go.dev",
+    "docsDomain": "pkg.go.devTEST",
     "repositories": [{
             "prefix": "elib/ebytes",
             "type": "git",
@@ -16,12 +16,12 @@
             }
         },
         {
-            "prefix": "elib/eflaggy ",
+            "prefix": "elib/eflaggy",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eflaggy ",
+            "url": "https://github.com/exoar/goexogo_elib_eflaggy",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eflaggy ",
+                "home": "https://github.com/exoar/goexogo_elib_eflaggy",
                 "dir": "https://github.com/exoar/goexogo_elib_eflaggy /tree/main{/dir}",
                 "file": "https://github.com/exoar/goexogo_elib_eflaggy /blob/main{/dir}/{file}#L{line}"
             },
@@ -44,12 +44,12 @@
             }
         },
         {
-            "prefix": "elib/ebackoff ",
+            "prefix": "elib/ebackoff",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ebackoff ",
+            "url": "https://github.com/exoar/goexogo_elib_ebackoff",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ebackoff ",
+                "home": "https://github.com/exoar/goexogo_elib_ebackoff",
                 "dir": "https://github.com/exoar/goexogo_elib_ebackoff /tree/main{/dir}",
                 "file": "https://github.com/exoar/goexogo_elib_ebackoff /blob/main{/dir}/{file}#L{line}"
             },
@@ -72,12 +72,12 @@
             }
         },
         {
-            "prefix": "elib/elog ",
+            "prefix": "elib/elog",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elog ",
+            "url": "https://github.com/exoar/goexogo_elib_elog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elog ",
+                "home": "https://github.com/exoar/goexogo_elib_elog",
                 "dir": "https://github.com/exoar/goexogo_elib_elog /tree/main{/dir}",
                 "file": "https://github.com/exoar/goexogo_elib_elog /blob/main{/dir}/{file}#L{line}"
             },
@@ -100,12 +100,12 @@
             }
         },
         {
-            "prefix": "elib/ecrypto/epem ",
+            "prefix": "elib/ecrypto/epem",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem ",
+            "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ecrypto_epem ",
+                "home": "https://github.com/exoar/goexogo_elib_ecrypto_epem",
                 "dir": "https://github.com/exoar/goexogo_elib_ecrypto_epem /tree/main{/dir}",
                 "file": "https://github.com/exoar/goexogo_elib_ecrypto_epem /blob/main{/dir}/{file}#L{line}"
             },

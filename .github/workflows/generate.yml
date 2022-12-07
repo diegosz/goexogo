@@ -1,6 +1,7 @@
 name: Generate
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - "main"
@@ -52,7 +53,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -am "generated docs/DOC.md"
+          git diff --quiet && git diff --staged --quiet || git commit -am "generated static HTML vanity imports"
           git push -u origin HEAD:main
           git checkout publish
           git merge main
