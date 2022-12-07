@@ -196,6 +196,34 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_eapp"
             }
+        },
+        {
+            "prefix": "elib/elogger",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_elogger",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_elogger",
+                "dir": "https://github.com/exoar/goexogo_elib_elogger/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elogger/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_elogger"
+            }
+        },
+        {
+            "prefix": "elib/elogger/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_elogger",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_elogger",
+                "dir": "https://github.com/exoar/goexogo_elib_elogger/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elogger/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_elogger"
+            }
         }
     ]
 }
