@@ -22,11 +22,11 @@
             "url": "https://github.com/exoar/goexogo_elib_eflaggy",
             "source": {
                 "home": "https://github.com/exoar/goexogo_elib_eflaggy",
-                "dir": "https://github.com/exoar/goexogo_elib_eflaggy /tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eflaggy /blob/main{/dir}/{file}#L{line}"
+                "dir": "https://github.com/exoar/goexogo_elib_eflaggy/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_eflaggy/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eflaggy "
+                "url": "https://github.com/exoar/goexogo_elib_eflaggy"
             }
         },
         {
@@ -50,11 +50,11 @@
             "url": "https://github.com/exoar/goexogo_elib_ebackoff",
             "source": {
                 "home": "https://github.com/exoar/goexogo_elib_ebackoff",
-                "dir": "https://github.com/exoar/goexogo_elib_ebackoff /tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ebackoff /blob/main{/dir}/{file}#L{line}"
+                "dir": "https://github.com/exoar/goexogo_elib_ebackoff/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ebackoff/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ebackoff "
+                "url": "https://github.com/exoar/goexogo_elib_ebackoff"
             }
         },
         {
@@ -78,11 +78,11 @@
             "url": "https://github.com/exoar/goexogo_elib_elog",
             "source": {
                 "home": "https://github.com/exoar/goexogo_elib_elog",
-                "dir": "https://github.com/exoar/goexogo_elib_elog /tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elog /blob/main{/dir}/{file}#L{line}"
+                "dir": "https://github.com/exoar/goexogo_elib_elog/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elog "
+                "url": "https://github.com/exoar/goexogo_elib_elog"
             }
         },
         {
@@ -106,11 +106,67 @@
             "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem",
             "source": {
                 "home": "https://github.com/exoar/goexogo_elib_ecrypto_epem",
-                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_epem /tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ecrypto_epem /blob/main{/dir}/{file}#L{line}"
+                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_epem/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ecrypto_epem/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem "
+                "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem"
+            }
+        },
+        {
+            "prefix": "elib/elog-adapter/ezerolog",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog",
+                "dir": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog"
+            }
+        },
+        {
+            "prefix": "elib/elog-integration/pgx",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_elog-integration_pgx",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_elog-integration_pgx",
+                "dir": "https://github.com/exoar/goexogo_elib_elog-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elog-integration_pgx/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_elog-integration_pgx"
+            }
+        },
+        {
+            "prefix": "elib/elog-integration/egolog",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_elog-integration_egolog",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_elog-integration_egolog",
+                "dir": "https://github.com/exoar/goexogo_elib_elog-integration_egolog/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_elog-integration_egolog/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_elog-integration_egolog"
+            }
+        },
+        {
+            "prefix": "elib/ecrypto/etls",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
+                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_etls/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ecrypto_etls/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls"
             }
         }
     ]
