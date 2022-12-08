@@ -198,6 +198,90 @@
             }
         },
         {
+            "prefix": "elib/edatabase",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_edatabase",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_edatabase",
+                "dir": "https://github.com/exoar/goexogo_elib_edatabase/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_edatabase/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_edatabase"
+            }
+        },
+        {
+            "prefix": "elib/edatabase/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_edatabase",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_edatabase",
+                "dir": "https://github.com/exoar/goexogo_elib_edatabase/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_edatabase/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_edatabase"
+            }
+        },
+        {
+            "prefix": "elib/emonitoring",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_emonitoring",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_emonitoring",
+                "dir": "https://github.com/exoar/goexogo_elib_emonitoring/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_emonitoring/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_emonitoring"
+            }
+        },
+        {
+            "prefix": "elib/emonitoring/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_emonitoring",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_emonitoring",
+                "dir": "https://github.com/exoar/goexogo_elib_emonitoring/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_emonitoring/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_emonitoring"
+            }
+        },
+        {
+            "prefix": "elib/enats",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_enats",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_enats",
+                "dir": "https://github.com/exoar/goexogo_elib_enats/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_enats/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_enats"
+            }
+        },
+        {
+            "prefix": "elib/ehttp",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_ehttp",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_ehttp",
+                "dir": "https://github.com/exoar/goexogo_elib_ehttp/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ehttp/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_ehttp"
+            }
+        },
+        {
             "prefix": "elib/elogger",
             "type": "git",
             "hidden": false,
