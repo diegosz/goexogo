@@ -378,6 +378,20 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx"
             }
+        },
+        {
+            "prefix": "bblocks/bbsql",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_bblocks_bbsql",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_bblocks_bbsql",
+                "dir": "https://github.com/exoar/goexogo_bblocks_bbsql/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_bblocks_bbsql/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_bblocks_bbsql"
+            }
         }
     ]
 }
