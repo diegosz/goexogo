@@ -30,6 +30,20 @@
             }
         },
         {
+            "prefix": "elib/eflaggy/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_eflaggy",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_eflaggy",
+                "dir": "https://github.com/exoar/goexogo_elib_eflaggy/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_eflaggy/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_eflaggy"
+            }
+        },
+        {
             "prefix": "elib/eversion",
             "type": "git",
             "hidden": false,
