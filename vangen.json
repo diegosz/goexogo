@@ -310,6 +310,20 @@
             }
         },
         {
+            "prefix": "elib/erpc/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_erpc",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_erpc",
+                "dir": "https://github.com/exoar/goexogo_elib_erpc/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_erpc/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_erpc"
+            }
+        },
+        {
             "prefix": "elib/elogger",
             "type": "git",
             "hidden": false,
