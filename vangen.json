@@ -408,6 +408,20 @@
             }
         },
         {
+            "prefix": "elib/etrueceiver",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_etrueceiver",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_etrueceiver",
+                "dir": "https://github.com/exoar/goexogo_elib_etrueceiver/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_etrueceiver/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_etrueceiver"
+            }
+        },
+        {
             "prefix": "bblocks/bbsql",
             "type": "git",
             "hidden": false,
