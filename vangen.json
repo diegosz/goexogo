@@ -1,7 +1,22 @@
 {
     "domain": "go.goexogo.com",
     "docsDomain": "pkg.go.dev",
-    "repositories": [{
+    "repositories": [
+        {
+            "prefix": "bblocks/bbsql",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_bblocks_bbsql",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_bblocks_bbsql",
+                "dir": "https://github.com/exoar/goexogo_bblocks_bbsql/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_bblocks_bbsql/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_bblocks_bbsql"
+            }
+        },
+        {
             "prefix": "elib/ebytes",
             "type": "git",
             "hidden": false,
@@ -422,17 +437,45 @@
             }
         },
         {
-            "prefix": "bblocks/bbsql",
+            "prefix": "elib/ecsv",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_bblocks_bbsql",
+            "url": "https://github.com/exoar/goexogo_elib_ecsv",
             "source": {
-                "home": "https://github.com/exoar/goexogo_bblocks_bbsql",
-                "dir": "https://github.com/exoar/goexogo_bblocks_bbsql/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_bblocks_bbsql/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/exoar/goexogo_elib_ecsv",
+                "dir": "https://github.com/exoar/goexogo_elib_ecsv/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ecsv/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_bblocks_bbsql"
+                "url": "https://github.com/exoar/goexogo_elib_ecsv"
+            }
+        },
+        {
+            "prefix": "elib/exid",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_exid",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_exid",
+                "dir": "https://github.com/exoar/goexogo_elib_exid/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_exid/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_exid"
+            }
+        },
+        {
+            "prefix": "elib/ejson",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_ejson",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_ejson",
+                "dir": "https://github.com/exoar/goexogo_elib_ejson/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ejson/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_ejson"
             }
         }
     ]
