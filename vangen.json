@@ -465,6 +465,20 @@
             }
         },
         {
+            "prefix": "elib/ebase32",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_ebase32",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_ebase32",
+                "dir": "https://github.com/exoar/goexogo_elib_ebase32/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ebase32/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_ebase32"
+            }
+        },
+        {
             "prefix": "elib/ejson",
             "type": "git",
             "hidden": false,
