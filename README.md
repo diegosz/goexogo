@@ -20,6 +20,8 @@
 
 4. In Github, the `generate.yml` action, should run generating the files and pushing them to `publish` branch.
 
+   > Only generates on changes of `vangen.json` file.
+
 5. Github Pages should be updated: [goexogo](https://go.goexogo.com/)
 
 ## Generate Manually
