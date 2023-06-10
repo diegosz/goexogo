@@ -24,6 +24,10 @@
 
 5. Github Pages should be updated: [goexogo](https://go.goexogo.com/)
 
+6. FIXME: Something is deleting the custom domain setup in Github Pages.
+
+   Goto [pages settings](https://github.com/diegosz/goexogo/settings/pages) and set `go.goexogo.com` in **Custom Domain**.
+
 ## Generate Manually
 
 ```sh
