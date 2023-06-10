@@ -451,20 +451,6 @@
             }
         },
         {
-            "prefix": "elib/exid",
-            "type": "git",
-            "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_exid",
-            "source": {
-                "home": "https://github.com/exoar/goexogo_elib_exid",
-                "dir": "https://github.com/exoar/goexogo_elib_exid/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_exid/blob/main{/dir}/{file}#L{line}"
-            },
-            "website": {
-                "url": "https://github.com/exoar/goexogo_elib_exid"
-            }
-        },
-        {
             "prefix": "elib/ejson",
             "type": "git",
             "hidden": false,
@@ -476,6 +462,20 @@
             },
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_ejson"
+            }
+        },
+        {
+            "prefix": "elib/exid",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_exid",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_exid",
+                "dir": "https://github.com/exoar/goexogo_elib_exid/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_exid/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_exid"
             }
         },
         {
