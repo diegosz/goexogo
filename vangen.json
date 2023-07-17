@@ -479,6 +479,34 @@
             }
         },
         {
+            "prefix": "elib/emmac",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_emmac",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_emmac",
+                "dir": "https://github.com/exoar/goexogo_elib_emmac/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_emmac/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_emmac"
+            }
+        },
+        {
+            "prefix": "elib/eticker",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_eticker",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_eticker",
+                "dir": "https://github.com/exoar/goexogo_elib_eticker/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_eticker/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_eticker"
+            }
+        },
+        {
             "prefix": "elib/ebase32",
             "type": "git",
             "hidden": false,
