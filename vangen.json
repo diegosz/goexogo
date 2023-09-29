@@ -519,5 +519,19 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_ebase32"
             }
+        },
+        {
+            "prefix": "elib/zlog",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_zlog",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_zlog",
+                "dir": "https://github.com/exoar/goexogo_elib_zlog/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_zlog/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_zlog"
+            }
         }    ]
 }
