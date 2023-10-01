@@ -533,5 +533,20 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_zlog"
             }
-        }    ]
+        },
+        {
+            "prefix": "edaf",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_edaf_wip",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_edaf_wip",
+                "dir": "https://github.com/exoar/goexogo_edaf_wip/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_edaf_wip/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_edaf_wip"
+            }
+        }
+    ]
 }
