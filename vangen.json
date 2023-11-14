@@ -563,6 +563,20 @@
             }
         },
         {
+            "prefix": "alibs/bsync",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_alibs_bsync",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_alibs_bsync",
+                "dir": "https://github.com/exoar/goexogo_alibs_bsync/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_alibs_bsync/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_alibs_bsync"
+            }
+        },
+        {
             "prefix": "alibs/fuzzyindex",
             "type": "git",
             "hidden": false,
