@@ -17,6 +17,48 @@
             }
         },
         {
+            "prefix": "bblocks/bbfsm",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_bblocks_bbfsm",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_bblocks_bbfsm",
+                "dir": "https://github.com/exoar/goexogo_bblocks_bbfsm/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_bblocks_bbfsm/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_bblocks_bbfsm"
+            }
+        },
+        {
+            "prefix": "bblocks/bblooper",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_bblocks_bblooper",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_bblocks_bblooper",
+                "dir": "https://github.com/exoar/goexogo_bblocks_bblooper/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_bblocks_bblooper/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_bblocks_bblooper"
+            }
+        },
+        {
+            "prefix": "bblocks/bbtasker",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_bblocks_bbtasker",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_bblocks_bbtasker",
+                "dir": "https://github.com/exoar/goexogo_bblocks_bbtasker/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_bblocks_bbtasker/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_bblocks_bbtasker"
+            }
+        },
+        {
             "prefix": "elib/ebytes",
             "type": "git",
             "hidden": false,
