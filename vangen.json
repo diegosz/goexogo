@@ -813,6 +813,20 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_eshutdown"
             }
+        },
+        {
+            "prefix": "elib/eutils",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_eutils",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_eutils",
+                "dir": "https://github.com/exoar/goexogo_elib_eutils/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_eutils/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_eutils"
+            }
         }
     ]
 }
