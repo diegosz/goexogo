@@ -827,6 +827,20 @@
             "website": {
                 "url": "https://github.com/exoar/goexogo_elib_eutils"
             }
+        },
+        {
+            "prefix": "elib/di",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_di",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_di",
+                "dir": "https://github.com/exoar/goexogo_elib_di/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_di/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_di"
+            }
         }
     ]
 }
