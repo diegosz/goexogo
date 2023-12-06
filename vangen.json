@@ -283,6 +283,20 @@
             }
         },
         {
+            "prefix": "elib/ecrypto/etls/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
+                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_etls/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_ecrypto_etls/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls"
+            }
+        },
+        {
             "prefix": "elib/ecsv",
             "type": "git",
             "hidden": false,
@@ -620,6 +634,20 @@
         },
         {
             "prefix": "elib/enats",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_enats",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_enats",
+                "dir": "https://github.com/exoar/goexogo_elib_enats/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_enats/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_enats"
+            }
+        },
+        {
+            "prefix": "elib/enats/v2",
             "type": "git",
             "hidden": false,
             "url": "https://github.com/exoar/goexogo_elib_enats",
