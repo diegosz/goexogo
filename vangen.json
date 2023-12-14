@@ -898,6 +898,18 @@
                 "url": "https://github.com/exoar/goexogo_elib_zlog-adapter_zgolog"
             }
         },
+        {
+            "prefix": "elib/zlog-integration/pgx",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx",
+                "dir": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx"
             }
         }
     ]
