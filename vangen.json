@@ -633,6 +633,20 @@
             }
         },
         {
+            "prefix": "elib/emonitoring/v3",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/exoar/goexogo_elib_emonitoring",
+            "source": {
+                "home": "https://github.com/exoar/goexogo_elib_emonitoring",
+                "dir": "https://github.com/exoar/goexogo_elib_emonitoring/tree/main{/dir}",
+                "file": "https://github.com/exoar/goexogo_elib_emonitoring/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/exoar/goexogo_elib_emonitoring"
+            }
+        },
+        {
             "prefix": "elib/enats",
             "type": "git",
             "hidden": false,
