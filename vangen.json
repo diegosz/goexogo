@@ -6,924 +6,924 @@
             "prefix": "alibs/blind",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_alibs_blind",
+            "url": "https://github.com/goexogo/alibs_blind",
             "source": {
-                "home": "https://github.com/exoar/goexogo_alibs_blind",
-                "dir": "https://github.com/exoar/goexogo_alibs_blind/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_alibs_blind/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/alibs_blind",
+                "dir": "https://github.com/goexogo/alibs_blind/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_blind/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_alibs_blind"
+                "url": "https://github.com/goexogo/alibs_blind"
             }
         },
         {
             "prefix": "alibs/bsync",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_alibs_bsync",
+            "url": "https://github.com/goexogo/alibs_bsync",
             "source": {
-                "home": "https://github.com/exoar/goexogo_alibs_bsync",
-                "dir": "https://github.com/exoar/goexogo_alibs_bsync/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_alibs_bsync/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/alibs_bsync",
+                "dir": "https://github.com/goexogo/alibs_bsync/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_bsync/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_alibs_bsync"
+                "url": "https://github.com/goexogo/alibs_bsync"
             }
         },
         {
             "prefix": "alibs/bsyncflw",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_alibs_bsyncflw",
+            "url": "https://github.com/goexogo/alibs_bsyncflw",
             "source": {
-                "home": "https://github.com/exoar/goexogo_alibs_bsyncflw",
-                "dir": "https://github.com/exoar/goexogo_alibs_bsyncflw/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_alibs_bsyncflw/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/alibs_bsyncflw",
+                "dir": "https://github.com/goexogo/alibs_bsyncflw/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_bsyncflw/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_alibs_bsyncflw"
+                "url": "https://github.com/goexogo/alibs_bsyncflw"
             }
         },
         {
             "prefix": "alibs/fuzzyindex",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_alibs_fuzzyindex",
+            "url": "https://github.com/goexogo/alibs_fuzzyindex",
             "source": {
-                "home": "https://github.com/exoar/goexogo_alibs_fuzzyindex",
-                "dir": "https://github.com/exoar/goexogo_alibs_fuzzyindex/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_alibs_fuzzyindex/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/alibs_fuzzyindex",
+                "dir": "https://github.com/goexogo/alibs_fuzzyindex/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_fuzzyindex/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_alibs_fuzzyindex"
+                "url": "https://github.com/goexogo/alibs_fuzzyindex"
             }
         },
         {
             "prefix": "bblocks/bbfsm",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_bblocks_bbfsm",
+            "url": "https://github.com/goexogo/bblocks_bbfsm",
             "source": {
-                "home": "https://github.com/exoar/goexogo_bblocks_bbfsm",
-                "dir": "https://github.com/exoar/goexogo_bblocks_bbfsm/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_bblocks_bbfsm/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/bblocks_bbfsm",
+                "dir": "https://github.com/goexogo/bblocks_bbfsm/tree/main{/dir}",
+                "file": "https://github.com/goexogo/bblocks_bbfsm/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_bblocks_bbfsm"
+                "url": "https://github.com/goexogo/bblocks_bbfsm"
             }
         },
         {
             "prefix": "bblocks/bblooper",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_bblocks_bblooper",
+            "url": "https://github.com/goexogo/bblocks_bblooper",
             "source": {
-                "home": "https://github.com/exoar/goexogo_bblocks_bblooper",
-                "dir": "https://github.com/exoar/goexogo_bblocks_bblooper/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_bblocks_bblooper/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/bblocks_bblooper",
+                "dir": "https://github.com/goexogo/bblocks_bblooper/tree/main{/dir}",
+                "file": "https://github.com/goexogo/bblocks_bblooper/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_bblocks_bblooper"
+                "url": "https://github.com/goexogo/bblocks_bblooper"
             }
         },
         {
             "prefix": "bblocks/bbsql",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_bblocks_bbsql",
+            "url": "https://github.com/goexogo/bblocks_bbsql",
             "source": {
-                "home": "https://github.com/exoar/goexogo_bblocks_bbsql",
-                "dir": "https://github.com/exoar/goexogo_bblocks_bbsql/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_bblocks_bbsql/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/bblocks_bbsql",
+                "dir": "https://github.com/goexogo/bblocks_bbsql/tree/main{/dir}",
+                "file": "https://github.com/goexogo/bblocks_bbsql/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_bblocks_bbsql"
+                "url": "https://github.com/goexogo/bblocks_bbsql"
             }
         },
         {
             "prefix": "bblocks/bbtasker",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_bblocks_bbtasker",
+            "url": "https://github.com/goexogo/bblocks_bbtasker",
             "source": {
-                "home": "https://github.com/exoar/goexogo_bblocks_bbtasker",
-                "dir": "https://github.com/exoar/goexogo_bblocks_bbtasker/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_bblocks_bbtasker/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/bblocks_bbtasker",
+                "dir": "https://github.com/goexogo/bblocks_bbtasker/tree/main{/dir}",
+                "file": "https://github.com/goexogo/bblocks_bbtasker/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_bblocks_bbtasker"
+                "url": "https://github.com/goexogo/bblocks_bbtasker"
             }
         },
         {
             "prefix": "edaf",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_edaf_wip",
+            "url": "https://github.com/goexogo/edaf_wip",
             "source": {
-                "home": "https://github.com/exoar/goexogo_edaf_wip",
-                "dir": "https://github.com/exoar/goexogo_edaf_wip/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_edaf_wip/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/edaf_wip",
+                "dir": "https://github.com/goexogo/edaf_wip/tree/main{/dir}",
+                "file": "https://github.com/goexogo/edaf_wip/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_edaf_wip"
+                "url": "https://github.com/goexogo/edaf_wip"
             }
         },
         {
             "prefix": "elib/di",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_di",
+            "url": "https://github.com/goexogo/elib_di",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_di",
-                "dir": "https://github.com/exoar/goexogo_elib_di/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_di/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_di",
+                "dir": "https://github.com/goexogo/elib_di/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_di/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_di"
+                "url": "https://github.com/goexogo/elib_di"
             }
         },
         {
             "prefix": "elib/eapp",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eapp",
+            "url": "https://github.com/goexogo/elib_eapp",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eapp",
-                "dir": "https://github.com/exoar/goexogo_elib_eapp/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eapp/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eapp",
+                "dir": "https://github.com/goexogo/elib_eapp/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eapp/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eapp"
+                "url": "https://github.com/goexogo/elib_eapp"
             }
         },
         {
             "prefix": "elib/eapp/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eapp",
+            "url": "https://github.com/goexogo/elib_eapp",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eapp",
-                "dir": "https://github.com/exoar/goexogo_elib_eapp/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eapp/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eapp",
+                "dir": "https://github.com/goexogo/elib_eapp/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eapp/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eapp"
+                "url": "https://github.com/goexogo/elib_eapp"
             }
         },
         {
             "prefix": "elib/eapp/v3",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eapp",
+            "url": "https://github.com/goexogo/elib_eapp",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eapp",
-                "dir": "https://github.com/exoar/goexogo_elib_eapp/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eapp/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eapp",
+                "dir": "https://github.com/goexogo/elib_eapp/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eapp/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eapp"
+                "url": "https://github.com/goexogo/elib_eapp"
             }
         },
         {
             "prefix": "elib/ebackoff",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ebackoff",
+            "url": "https://github.com/goexogo/elib_ebackoff",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ebackoff",
-                "dir": "https://github.com/exoar/goexogo_elib_ebackoff/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ebackoff/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ebackoff",
+                "dir": "https://github.com/goexogo/elib_ebackoff/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ebackoff/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ebackoff"
+                "url": "https://github.com/goexogo/elib_ebackoff"
             }
         },
         {
             "prefix": "elib/ebase32",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ebase32",
+            "url": "https://github.com/goexogo/elib_ebase32",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ebase32",
-                "dir": "https://github.com/exoar/goexogo_elib_ebase32/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ebase32/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ebase32",
+                "dir": "https://github.com/goexogo/elib_ebase32/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ebase32/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ebase32"
+                "url": "https://github.com/goexogo/elib_ebase32"
             }
         },
         {
             "prefix": "elib/ebytes",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ebytes",
+            "url": "https://github.com/goexogo/elib_ebytes",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ebytes",
-                "dir": "https://github.com/exoar/goexogo_elib_ebytes/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ebytes/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ebytes",
+                "dir": "https://github.com/goexogo/elib_ebytes/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ebytes/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ebytes"
+                "url": "https://github.com/goexogo/elib_ebytes"
             }
         },
         {
             "prefix": "elib/econtext",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_econtext",
+            "url": "https://github.com/goexogo/elib_econtext",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_econtext",
-                "dir": "https://github.com/exoar/goexogo_elib_econtext/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_econtext/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_econtext",
+                "dir": "https://github.com/goexogo/elib_econtext/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_econtext/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_econtext"
+                "url": "https://github.com/goexogo/elib_econtext"
             }
         },
         {
             "prefix": "elib/ecrypto/abe",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ecrypto_abe",
+            "url": "https://github.com/goexogo/elib_ecrypto_abe",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ecrypto_epem",
-                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_epem/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ecrypto_epem/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ecrypto_epem",
+                "dir": "https://github.com/goexogo/elib_ecrypto_epem/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ecrypto_epem/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem"
+                "url": "https://github.com/goexogo/elib_ecrypto_epem"
             }
         },
         {
             "prefix": "elib/ecrypto/epem",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem",
+            "url": "https://github.com/goexogo/elib_ecrypto_epem",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ecrypto_epem",
-                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_epem/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ecrypto_epem/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ecrypto_epem",
+                "dir": "https://github.com/goexogo/elib_ecrypto_epem/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ecrypto_epem/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ecrypto_epem"
+                "url": "https://github.com/goexogo/elib_ecrypto_epem"
             }
         },
         {
             "prefix": "elib/ecrypto/etls",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
+            "url": "https://github.com/goexogo/elib_ecrypto_etls",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
-                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_etls/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ecrypto_etls/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ecrypto_etls",
+                "dir": "https://github.com/goexogo/elib_ecrypto_etls/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ecrypto_etls/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls"
+                "url": "https://github.com/goexogo/elib_ecrypto_etls"
             }
         },
         {
             "prefix": "elib/ecrypto/etls/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
+            "url": "https://github.com/goexogo/elib_ecrypto_etls",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ecrypto_etls",
-                "dir": "https://github.com/exoar/goexogo_elib_ecrypto_etls/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ecrypto_etls/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ecrypto_etls",
+                "dir": "https://github.com/goexogo/elib_ecrypto_etls/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ecrypto_etls/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ecrypto_etls"
+                "url": "https://github.com/goexogo/elib_ecrypto_etls"
             }
         },
         {
             "prefix": "elib/ecsv",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ecsv",
+            "url": "https://github.com/goexogo/elib_ecsv",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ecsv",
-                "dir": "https://github.com/exoar/goexogo_elib_ecsv/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ecsv/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ecsv",
+                "dir": "https://github.com/goexogo/elib_ecsv/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ecsv/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ecsv"
+                "url": "https://github.com/goexogo/elib_ecsv"
             }
         },
         {
             "prefix": "elib/edatabase",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_edatabase",
+            "url": "https://github.com/goexogo/elib_edatabase",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_edatabase",
-                "dir": "https://github.com/exoar/goexogo_elib_edatabase/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_edatabase/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_edatabase",
+                "dir": "https://github.com/goexogo/elib_edatabase/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_edatabase/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_edatabase"
+                "url": "https://github.com/goexogo/elib_edatabase"
             }
         },
         {
             "prefix": "elib/edatabase/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_edatabase",
+            "url": "https://github.com/goexogo/elib_edatabase",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_edatabase",
-                "dir": "https://github.com/exoar/goexogo_elib_edatabase/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_edatabase/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_edatabase",
+                "dir": "https://github.com/goexogo/elib_edatabase/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_edatabase/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_edatabase"
+                "url": "https://github.com/goexogo/elib_edatabase"
             }
         },
         {
             "prefix": "elib/eflaggy",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eflaggy",
+            "url": "https://github.com/goexogo/elib_eflaggy",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eflaggy",
-                "dir": "https://github.com/exoar/goexogo_elib_eflaggy/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eflaggy/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eflaggy",
+                "dir": "https://github.com/goexogo/elib_eflaggy/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eflaggy/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eflaggy"
+                "url": "https://github.com/goexogo/elib_eflaggy"
             }
         },
         {
             "prefix": "elib/eflaggy/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eflaggy",
+            "url": "https://github.com/goexogo/elib_eflaggy",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eflaggy",
-                "dir": "https://github.com/exoar/goexogo_elib_eflaggy/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eflaggy/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eflaggy",
+                "dir": "https://github.com/goexogo/elib_eflaggy/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eflaggy/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eflaggy"
+                "url": "https://github.com/goexogo/elib_eflaggy"
             }
         },
         {
             "prefix": "elib/ehttp",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ehttp",
+            "url": "https://github.com/goexogo/elib_ehttp",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ehttp",
-                "dir": "https://github.com/exoar/goexogo_elib_ehttp/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ehttp/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ehttp",
+                "dir": "https://github.com/goexogo/elib_ehttp/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ehttp/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ehttp"
+                "url": "https://github.com/goexogo/elib_ehttp"
             }
         },
         {
             "prefix": "elib/eio",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eio",
+            "url": "https://github.com/goexogo/elib_eio",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eio",
-                "dir": "https://github.com/exoar/goexogo_elib_eio/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eio/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eio",
+                "dir": "https://github.com/goexogo/elib_eio/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eio/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eio"
+                "url": "https://github.com/goexogo/elib_eio"
             }
         },
         {
             "prefix": "elib/ejcs",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ejcs",
+            "url": "https://github.com/goexogo/elib_ejcs",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ejcs",
-                "dir": "https://github.com/exoar/goexogo_elib_ejcs/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ejcs/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ejcs",
+                "dir": "https://github.com/goexogo/elib_ejcs/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ejcs/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ejcs"
+                "url": "https://github.com/goexogo/elib_ejcs"
             }
         },
         {
             "prefix": "elib/ejoe",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ejoe",
+            "url": "https://github.com/goexogo/elib_ejoe",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ejoe",
-                "dir": "https://github.com/exoar/goexogo_elib_ejoe/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ejoe/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ejoe",
+                "dir": "https://github.com/goexogo/elib_ejoe/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ejoe/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ejoe"
+                "url": "https://github.com/goexogo/elib_ejoe"
             }
         },
         {
             "prefix": "elib/ejson",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_ejson",
+            "url": "https://github.com/goexogo/elib_ejson",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_ejson",
-                "dir": "https://github.com/exoar/goexogo_elib_ejson/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_ejson/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_ejson",
+                "dir": "https://github.com/goexogo/elib_ejson/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ejson/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_ejson"
+                "url": "https://github.com/goexogo/elib_ejson"
             }
         },
         {
             "prefix": "elib/elifecycle",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elifecycle",
+            "url": "https://github.com/goexogo/elib_elifecycle",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elifecycle",
-                "dir": "https://github.com/exoar/goexogo_elib_elifecycle/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elifecycle/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elifecycle",
+                "dir": "https://github.com/goexogo/elib_elifecycle/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elifecycle/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elifecycle"
+                "url": "https://github.com/goexogo/elib_elifecycle"
             }
         },
         {
             "prefix": "elib/elog",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elog",
+            "url": "https://github.com/goexogo/elib_elog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elog",
-                "dir": "https://github.com/exoar/goexogo_elib_elog/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elog/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elog",
+                "dir": "https://github.com/goexogo/elib_elog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elog"
+                "url": "https://github.com/goexogo/elib_elog"
             }
         },
         {
             "prefix": "elib/elog-adapter/ezerolog",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog",
+            "url": "https://github.com/goexogo/elib_elog-adapter_ezerolog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog",
-                "dir": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elog-adapter_ezerolog",
+                "dir": "https://github.com/goexogo/elib_elog-adapter_ezerolog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elog-adapter_ezerolog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elog-adapter_ezerolog"
+                "url": "https://github.com/goexogo/elib_elog-adapter_ezerolog"
             }
         },
         {
             "prefix": "elib/elog-integration/egolog",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elog-integration_egolog",
+            "url": "https://github.com/goexogo/elib_elog-integration_egolog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elog-integration_egolog",
-                "dir": "https://github.com/exoar/goexogo_elib_elog-integration_egolog/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elog-integration_egolog/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elog-integration_egolog",
+                "dir": "https://github.com/goexogo/elib_elog-integration_egolog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elog-integration_egolog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elog-integration_egolog"
+                "url": "https://github.com/goexogo/elib_elog-integration_egolog"
             }
         },
         {
             "prefix": "elib/elog-integration/pgx",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elog-integration_pgx",
+            "url": "https://github.com/goexogo/elib_elog-integration_pgx",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elog-integration_pgx",
-                "dir": "https://github.com/exoar/goexogo_elib_elog-integration_pgx/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elog-integration_pgx/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elog-integration_pgx",
+                "dir": "https://github.com/goexogo/elib_elog-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elog-integration_pgx/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elog-integration_pgx"
+                "url": "https://github.com/goexogo/elib_elog-integration_pgx"
             }
         },
         {
             "prefix": "elib/elogger",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elogger",
+            "url": "https://github.com/goexogo/elib_elogger",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elogger",
-                "dir": "https://github.com/exoar/goexogo_elib_elogger/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elogger/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elogger",
+                "dir": "https://github.com/goexogo/elib_elogger/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elogger/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elogger"
+                "url": "https://github.com/goexogo/elib_elogger"
             }
         },
         {
             "prefix": "elib/elogger-adapter/ezerolog",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog",
+            "url": "https://github.com/goexogo/elib_elogger-adapter_ezerolog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog",
-                "dir": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elogger-adapter_ezerolog",
+                "dir": "https://github.com/goexogo/elib_elogger-adapter_ezerolog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elogger-adapter_ezerolog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog"
+                "url": "https://github.com/goexogo/elib_elogger-adapter_ezerolog"
             }
         },
         {
             "prefix": "elib/elogger-adapter/ezerolog/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog",
+            "url": "https://github.com/goexogo/elib_elogger-adapter_ezerolog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog",
-                "dir": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elogger-adapter_ezerolog",
+                "dir": "https://github.com/goexogo/elib_elogger-adapter_ezerolog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elogger-adapter_ezerolog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elogger-adapter_ezerolog"
+                "url": "https://github.com/goexogo/elib_elogger-adapter_ezerolog"
             }
         },
         {
             "prefix": "elib/elogger-integration/pgx",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
+            "url": "https://github.com/goexogo/elib_elogger-integration_pgx",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
-                "dir": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elogger-integration_pgx",
+                "dir": "https://github.com/goexogo/elib_elogger-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elogger-integration_pgx/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx"
+                "url": "https://github.com/goexogo/elib_elogger-integration_pgx"
             }
         },
         {
             "prefix": "elib/elogger-integration/pgx/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
+            "url": "https://github.com/goexogo/elib_elogger-integration_pgx",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx",
-                "dir": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elogger-integration_pgx",
+                "dir": "https://github.com/goexogo/elib_elogger-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elogger-integration_pgx/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elogger-integration_pgx"
+                "url": "https://github.com/goexogo/elib_elogger-integration_pgx"
             }
         },
         {
             "prefix": "elib/elogger/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_elogger",
+            "url": "https://github.com/goexogo/elib_elogger",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_elogger",
-                "dir": "https://github.com/exoar/goexogo_elib_elogger/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_elogger/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_elogger",
+                "dir": "https://github.com/goexogo/elib_elogger/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elogger/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_elogger"
+                "url": "https://github.com/goexogo/elib_elogger"
             }
         },
         {
             "prefix": "elib/emmac",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_emmac",
+            "url": "https://github.com/goexogo/elib_emmac",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_emmac",
-                "dir": "https://github.com/exoar/goexogo_elib_emmac/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_emmac/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_emmac",
+                "dir": "https://github.com/goexogo/elib_emmac/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_emmac/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_emmac"
+                "url": "https://github.com/goexogo/elib_emmac"
             }
         },
         {
             "prefix": "elib/emonitoring",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_emonitoring",
+            "url": "https://github.com/goexogo/elib_emonitoring",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_emonitoring",
-                "dir": "https://github.com/exoar/goexogo_elib_emonitoring/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_emonitoring/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_emonitoring",
+                "dir": "https://github.com/goexogo/elib_emonitoring/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_emonitoring/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_emonitoring"
+                "url": "https://github.com/goexogo/elib_emonitoring"
             }
         },
         {
             "prefix": "elib/emonitoring/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_emonitoring",
+            "url": "https://github.com/goexogo/elib_emonitoring",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_emonitoring",
-                "dir": "https://github.com/exoar/goexogo_elib_emonitoring/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_emonitoring/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_emonitoring",
+                "dir": "https://github.com/goexogo/elib_emonitoring/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_emonitoring/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_emonitoring"
+                "url": "https://github.com/goexogo/elib_emonitoring"
             }
         },
         {
             "prefix": "elib/emonitoring/v3",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_emonitoring",
+            "url": "https://github.com/goexogo/elib_emonitoring",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_emonitoring",
-                "dir": "https://github.com/exoar/goexogo_elib_emonitoring/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_emonitoring/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_emonitoring",
+                "dir": "https://github.com/goexogo/elib_emonitoring/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_emonitoring/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_emonitoring"
+                "url": "https://github.com/goexogo/elib_emonitoring"
             }
         },
         {
             "prefix": "elib/enats",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_enats",
+            "url": "https://github.com/goexogo/elib_enats",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_enats",
-                "dir": "https://github.com/exoar/goexogo_elib_enats/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_enats/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_enats",
+                "dir": "https://github.com/goexogo/elib_enats/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_enats/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_enats"
+                "url": "https://github.com/goexogo/elib_enats"
             }
         },
         {
             "prefix": "elib/enats/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_enats",
+            "url": "https://github.com/goexogo/elib_enats",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_enats",
-                "dir": "https://github.com/exoar/goexogo_elib_enats/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_enats/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_enats",
+                "dir": "https://github.com/goexogo/elib_enats/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_enats/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_enats"
+                "url": "https://github.com/goexogo/elib_enats"
             }
         },
         {
             "prefix": "elib/erpc",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_erpc",
+            "url": "https://github.com/goexogo/elib_erpc",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_erpc",
-                "dir": "https://github.com/exoar/goexogo_elib_erpc/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_erpc/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_erpc",
+                "dir": "https://github.com/goexogo/elib_erpc/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_erpc/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_erpc"
+                "url": "https://github.com/goexogo/elib_erpc"
             }
         },
         {
             "prefix": "elib/erpc/v2",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_erpc",
+            "url": "https://github.com/goexogo/elib_erpc",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_erpc",
-                "dir": "https://github.com/exoar/goexogo_elib_erpc/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_erpc/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_erpc",
+                "dir": "https://github.com/goexogo/elib_erpc/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_erpc/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_erpc"
+                "url": "https://github.com/goexogo/elib_erpc"
             }
         },
         {
             "prefix": "elib/eshutdown",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eshutdown",
+            "url": "https://github.com/goexogo/elib_eshutdown",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eshutdown",
-                "dir": "https://github.com/exoar/goexogo_elib_eshutdown/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eshutdown/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eshutdown",
+                "dir": "https://github.com/goexogo/elib_eshutdown/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eshutdown/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eshutdown"
+                "url": "https://github.com/goexogo/elib_eshutdown"
             }
         },
         {
             "prefix": "elib/esync",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_esync",
+            "url": "https://github.com/goexogo/elib_esync",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_esync",
-                "dir": "https://github.com/exoar/goexogo_elib_esync/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_esync/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_esync",
+                "dir": "https://github.com/goexogo/elib_esync/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_esync/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_esync"
+                "url": "https://github.com/goexogo/elib_esync"
             }
         },
         {
             "prefix": "elib/etesting",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_etesting",
+            "url": "https://github.com/goexogo/elib_etesting",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_etesting",
-                "dir": "https://github.com/exoar/goexogo_elib_etesting/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_etesting/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_etesting",
+                "dir": "https://github.com/goexogo/elib_etesting/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_etesting/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_etesting"
+                "url": "https://github.com/goexogo/elib_etesting"
             }
         },
         {
             "prefix": "elib/eticker",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eticker",
+            "url": "https://github.com/goexogo/elib_eticker",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eticker",
-                "dir": "https://github.com/exoar/goexogo_elib_eticker/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eticker/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eticker",
+                "dir": "https://github.com/goexogo/elib_eticker/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eticker/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eticker"
+                "url": "https://github.com/goexogo/elib_eticker"
             }
         },
         {
             "prefix": "elib/etrueceiver",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_etrueceiver",
+            "url": "https://github.com/goexogo/elib_etrueceiver",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_etrueceiver",
-                "dir": "https://github.com/exoar/goexogo_elib_etrueceiver/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_etrueceiver/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_etrueceiver",
+                "dir": "https://github.com/goexogo/elib_etrueceiver/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_etrueceiver/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_etrueceiver"
+                "url": "https://github.com/goexogo/elib_etrueceiver"
             }
         },
         {
             "prefix": "elib/eulid",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eulid",
+            "url": "https://github.com/goexogo/elib_eulid",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eulid",
-                "dir": "https://github.com/exoar/goexogo_elib_eulid/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eulid/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eulid",
+                "dir": "https://github.com/goexogo/elib_eulid/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eulid/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eulid"
+                "url": "https://github.com/goexogo/elib_eulid"
             }
         },
         {
             "prefix": "elib/eunsafe",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eunsafe",
+            "url": "https://github.com/goexogo/elib_eunsafe",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eunsafe",
-                "dir": "https://github.com/exoar/goexogo_elib_eunsafe/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eunsafe/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eunsafe",
+                "dir": "https://github.com/goexogo/elib_eunsafe/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eunsafe/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eunsafe"
+                "url": "https://github.com/goexogo/elib_eunsafe"
             }
         },
         {
             "prefix": "elib/eutils",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eutils",
+            "url": "https://github.com/goexogo/elib_eutils",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eutils",
-                "dir": "https://github.com/exoar/goexogo_elib_eutils/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eutils/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eutils",
+                "dir": "https://github.com/goexogo/elib_eutils/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eutils/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eutils"
+                "url": "https://github.com/goexogo/elib_eutils"
             }
         },
         {
             "prefix": "elib/euuid",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_euuid",
+            "url": "https://github.com/goexogo/elib_euuid",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_euuid",
-                "dir": "https://github.com/exoar/goexogo_elib_euuid/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_euuid/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_euuid",
+                "dir": "https://github.com/goexogo/elib_euuid/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_euuid/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_euuid"
+                "url": "https://github.com/goexogo/elib_euuid"
             }
         },
         {
             "prefix": "elib/eversion",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_eversion",
+            "url": "https://github.com/goexogo/elib_eversion",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_eversion",
-                "dir": "https://github.com/exoar/goexogo_elib_eversion/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_eversion/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_eversion",
+                "dir": "https://github.com/goexogo/elib_eversion/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_eversion/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_eversion"
+                "url": "https://github.com/goexogo/elib_eversion"
             }
         },
         {
             "prefix": "elib/exid",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_exid",
+            "url": "https://github.com/goexogo/elib_exid",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_exid",
-                "dir": "https://github.com/exoar/goexogo_elib_exid/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_exid/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_exid",
+                "dir": "https://github.com/goexogo/elib_exid/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_exid/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_exid"
+                "url": "https://github.com/goexogo/elib_exid"
             }
         },
         {
             "prefix": "elib/multidigest",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_multidigest",
+            "url": "https://github.com/goexogo/elib_multidigest",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_multidigest",
-                "dir": "https://github.com/exoar/goexogo_elib_multidigest/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_multidigest/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_multidigest",
+                "dir": "https://github.com/goexogo/elib_multidigest/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_multidigest/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_multidigest"
+                "url": "https://github.com/goexogo/elib_multidigest"
             }
         },
         {
             "prefix": "elib/multikind",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_multikind",
+            "url": "https://github.com/goexogo/elib_multikind",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_multikind",
-                "dir": "https://github.com/exoar/goexogo_elib_multikind/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_multikind/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_multikind",
+                "dir": "https://github.com/goexogo/elib_multikind/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_multikind/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_multikind"
+                "url": "https://github.com/goexogo/elib_multikind"
             }
         },
         {
             "prefix": "elib/zlog",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_zlog",
+            "url": "https://github.com/goexogo/elib_zlog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_zlog",
-                "dir": "https://github.com/exoar/goexogo_elib_zlog/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_zlog/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_zlog",
+                "dir": "https://github.com/goexogo/elib_zlog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_zlog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_zlog"
+                "url": "https://github.com/goexogo/elib_zlog"
             }
         },
         {
             "prefix": "elib/zlog-adapter/zgolog",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_zlog-adapter_zgolog",
+            "url": "https://github.com/goexogo/elib_zlog-adapter_zgolog",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_zlog-adapter_zgolog",
-                "dir": "https://github.com/exoar/goexogo_elib_zlog-adapter_zgolog/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_zlog-adapter_zgolog/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_zlog-adapter_zgolog",
+                "dir": "https://github.com/goexogo/elib_zlog-adapter_zgolog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_zlog-adapter_zgolog/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_zlog-adapter_zgolog"
+                "url": "https://github.com/goexogo/elib_zlog-adapter_zgolog"
             }
         },
         {
             "prefix": "elib/zlog-integration/pgx",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx",
+            "url": "https://github.com/goexogo/elib_zlog-integration_pgx",
             "source": {
-                "home": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx",
-                "dir": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx/tree/main{/dir}",
-                "file": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_zlog-integration_pgx",
+                "dir": "https://github.com/goexogo/elib_zlog-integration_pgx/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_zlog-integration_pgx/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/exoar/goexogo_elib_zlog-integration_pgx"
+                "url": "https://github.com/goexogo/elib_zlog-integration_pgx"
             }
         }
     ]
