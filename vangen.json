@@ -3,6 +3,20 @@
     "docsDomain": "pkg.go.dev",
     "repositories": [
         {
+            "prefix": "gotooling",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/gotooling",
+            "source": {
+                "home": "https://github.com/goexogo/gotooling",
+                "dir": "https://github.com/goexogo/gotooling/tree/main{/dir}",
+                "file": "https://github.com/goexogo/gotooling/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/gotooling"
+            }
+        },
+        {
             "prefix": "alibs/blind",
             "type": "git",
             "hidden": false,
