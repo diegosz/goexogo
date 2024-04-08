@@ -395,6 +395,20 @@
             }
         },
         {
+            "prefix": "elib/ehttp/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_ehttp",
+            "source": {
+                "home": "https://github.com/goexogo/elib_ehttp",
+                "dir": "https://github.com/goexogo/elib_ehttp/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ehttp/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_ehttp"
+            }
+        },
+        {
             "prefix": "elib/eio",
             "type": "git",
             "hidden": false,
