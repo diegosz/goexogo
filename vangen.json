@@ -745,6 +745,20 @@
             }
         },
         {
+            "prefix": "elib/esops",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_esops",
+            "source": {
+                "home": "https://github.com/goexogo/elib_esops",
+                "dir": "https://github.com/goexogo/elib_esops/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_esops/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_esops"
+            }
+        },
+        {
             "prefix": "elib/esync",
             "type": "git",
             "hidden": false,
