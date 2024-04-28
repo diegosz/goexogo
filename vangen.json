@@ -59,17 +59,17 @@
             }
         },
         {
-            "prefix": "alibs/fuzzyindex",
+            "prefix": "alibs/fuzzix",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/goexogo/alibs_fuzzyindex",
+            "url": "https://github.com/goexogo/alibs_fuzzix",
             "source": {
-                "home": "https://github.com/goexogo/alibs_fuzzyindex",
-                "dir": "https://github.com/goexogo/alibs_fuzzyindex/tree/main{/dir}",
-                "file": "https://github.com/goexogo/alibs_fuzzyindex/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/alibs_fuzzx",
+                "dir": "https://github.com/goexogo/alibs_fuzzix/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_fuzzix/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/goexogo/alibs_fuzzyindex"
+                "url": "https://github.com/goexogo/alibs_fuzzix"
             }
         },
         {
