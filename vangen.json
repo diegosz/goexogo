@@ -353,6 +353,20 @@
             }
         },
         {
+            "prefix": "elib/edatabase/v3",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_edatabase",
+            "source": {
+                "home": "https://github.com/goexogo/elib_edatabase",
+                "dir": "https://github.com/goexogo/elib_edatabase/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_edatabase/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_edatabase"
+            }
+        },
+        {
             "prefix": "elib/eflaggy",
             "type": "git",
             "hidden": false,
