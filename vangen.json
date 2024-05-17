@@ -969,45 +969,45 @@
             }
         },
         {
-            "prefix": "elib/zlog-integration/pgxv4",
+            "prefix": "elib/zlog-integration/pgxv4log",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/goexogo/elib_zlog-integration_pgxv4",
+            "url": "https://github.com/goexogo/elib_zlog-integration_pgxv4log",
             "source": {
-                "home": "https://github.com/goexogo/elib_zlog-integration_pgxv4",
-                "dir": "https://github.com/goexogo/elib_zlog-integration_pgxv4/tree/main{/dir}",
-                "file": "https://github.com/goexogo/elib_zlog-integration_pgxv4/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_zlog-integration_pgxv4log",
+                "dir": "https://github.com/goexogo/elib_zlog-integration_pgxv4log/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_zlog-integration_pgxv4log/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/goexogo/elib_zlog-integration_pgxv4"
+                "url": "https://github.com/goexogo/elib_zlog-integration_pgxv4log"
             }
         },
         {
-            "prefix": "elib/zlog-integration/pgxv5",
+            "prefix": "elib/zlog-integration/pgxv5log",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/goexogo/elib_zlog-integration_pgxv5",
+            "url": "https://github.com/goexogo/elib_zlog-integration_pgxv5log",
             "source": {
-                "home": "https://github.com/goexogo/elib_zlog-integration_pgxv5",
-                "dir": "https://github.com/goexogo/elib_zlog-integration_pgxv5/tree/main{/dir}",
-                "file": "https://github.com/goexogo/elib_zlog-integration_pgxv5/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_zlog-integration_pgxv5log",
+                "dir": "https://github.com/goexogo/elib_zlog-integration_pgxv5log/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_zlog-integration_pgxv5log/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/goexogo/elib_zlog-integration_pgxv5"
+                "url": "https://github.com/goexogo/elib_zlog-integration_pgxv5log"
             }
         },
         {
-            "prefix": "elib/zlog-integration/ypgxv5",
+            "prefix": "elib/zlog-integration/ypgxv5log",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/goexogo/elib_zlog-integration_ypgxv5",
+            "url": "https://github.com/goexogo/elib_zlog-integration_ypgxv5log",
             "source": {
-                "home": "https://github.com/goexogo/elib_zlog-integration_ypgxv5",
-                "dir": "https://github.com/goexogo/elib_zlog-integration_ypgxv5/tree/main{/dir}",
-                "file": "https://github.com/goexogo/elib_zlog-integration_ypgxv5/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/elib_zlog-integration_ypgxv5log",
+                "dir": "https://github.com/goexogo/elib_zlog-integration_ypgxv5log/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_zlog-integration_ypgxv5log/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/goexogo/elib_zlog-integration_ypgxv5"
+                "url": "https://github.com/goexogo/elib_zlog-integration_ypgxv5log"
             }
         }
     ]
