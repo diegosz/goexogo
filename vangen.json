@@ -773,6 +773,20 @@
             }
         },
         {
+            "prefix": "elib/esuid",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_esuid",
+            "source": {
+                "home": "https://github.com/goexogo/elib_esuid",
+                "dir": "https://github.com/goexogo/elib_esuid/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_esuid/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_esuid"
+            }
+        },
+        {
             "prefix": "elib/esync",
             "type": "git",
             "hidden": false,
