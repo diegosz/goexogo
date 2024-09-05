@@ -1023,6 +1023,20 @@
             "website": {
                 "url": "https://github.com/goexogo/elib_zlog-integration_ypgxv5log"
             }
+        },
+        {
+            "prefix": "ewin",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/ewin",
+            "source": {
+                "home": "https://github.com/goexogo/ewin",
+                "dir": "https://github.com/goexogo/ewin/tree/main{/dir}",
+                "file": "https://github.com/goexogo/ewin/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/ewin"
+            }
         }
     ]
 }
