@@ -493,6 +493,20 @@
             }
         },
         {
+            "prefix": "elib/elister",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_elister",
+            "source": {
+                "home": "https://github.com/goexogo/elib_elister",
+                "dir": "https://github.com/goexogo/elib_elister/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_elister/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_elister"
+            }
+        },
+        {
             "prefix": "elib/elog",
             "type": "git",
             "hidden": false,
