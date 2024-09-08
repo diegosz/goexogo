@@ -325,6 +325,20 @@
             }
         },
         {
+            "prefix": "elib/ecsv/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_ecsv",
+            "source": {
+                "home": "https://github.com/goexogo/elib_ecsv",
+                "dir": "https://github.com/goexogo/elib_ecsv/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ecsv/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_ecsv"
+            }
+        },
+        {
             "prefix": "elib/edatabase",
             "type": "git",
             "hidden": false,
