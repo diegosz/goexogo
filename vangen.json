@@ -479,6 +479,20 @@
             }
         },
         {
+            "prefix": "elib/ejoe/v2",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_ejoe",
+            "source": {
+                "home": "https://github.com/goexogo/elib_ejoe",
+                "dir": "https://github.com/goexogo/elib_ejoe/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_ejoe/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_ejoe"
+            }
+        },
+        {
             "prefix": "elib/ejson",
             "type": "git",
             "hidden": false,
