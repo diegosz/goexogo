@@ -64,12 +64,26 @@
             "hidden": false,
             "url": "https://github.com/goexogo/alibs_fuzzix",
             "source": {
-                "home": "https://github.com/goexogo/alibs_fuzzx",
+                "home": "https://github.com/goexogo/alibs_fuzzxix",
                 "dir": "https://github.com/goexogo/alibs_fuzzix/tree/main{/dir}",
                 "file": "https://github.com/goexogo/alibs_fuzzix/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
                 "url": "https://github.com/goexogo/alibs_fuzzix"
+            }
+        },
+        {
+            "prefix": "alibs/ringlayer",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_ringlayer",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_ringlayer",
+                "dir": "https://github.com/goexogo/alibs_ringlayer/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_ringlayer/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_ringlayer"
             }
         },
         {
