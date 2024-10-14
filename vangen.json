@@ -129,6 +129,20 @@
             }
         },
         {
+            "prefix": "bblocks/bbrunner",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/bblocks_bbrunner",
+            "source": {
+                "home": "https://github.com/goexogo/bblocks_bbrunner",
+                "dir": "https://github.com/goexogo/bblocks_bbrunner/tree/main{/dir}",
+                "file": "https://github.com/goexogo/bblocks_bbrunner/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/bblocks_bbrunner"
+            }
+        },
+        {
             "prefix": "bblocks/bbsql",
             "type": "git",
             "hidden": false,
