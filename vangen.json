@@ -64,12 +64,26 @@
             "hidden": false,
             "url": "https://github.com/goexogo/alibs_fuzzix",
             "source": {
-                "home": "https://github.com/goexogo/alibs_fuzzxix",
+                "home": "https://github.com/goexogo/alibs_fuzzix",
                 "dir": "https://github.com/goexogo/alibs_fuzzix/tree/main{/dir}",
                 "file": "https://github.com/goexogo/alibs_fuzzix/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
                 "url": "https://github.com/goexogo/alibs_fuzzix"
+            }
+        },
+        {
+            "prefix": "alibs/md30c3",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_md30c3",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_md30c3",
+                "dir": "https://github.com/goexogo/alibs_md30c3/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_md30c3/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_md30c3"
             }
         },
         {
