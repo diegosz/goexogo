@@ -437,6 +437,20 @@
             }
         },
         {
+            "prefix": "elib/efeedback",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_efeedback",
+            "source": {
+                "home": "https://github.com/goexogo/elib_efeedback",
+                "dir": "https://github.com/goexogo/elib_efeedback/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_efeedback/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_efeedback"
+            }
+        },
+        {
             "prefix": "elib/eflaggy",
             "type": "git",
             "hidden": false,
