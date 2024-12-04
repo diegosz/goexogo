@@ -59,6 +59,20 @@
             }
         },
         {
+            "prefix": "alibs/emdr",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_emdr",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_emdr",
+                "dir": "https://github.com/goexogo/alibs_emdr/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_emdr/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_emdr"
+            }
+        },
+        {
             "prefix": "alibs/fuzzix",
             "type": "git",
             "hidden": false,
