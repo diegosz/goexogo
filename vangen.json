@@ -1151,6 +1151,20 @@
             }
         },
         {
+            "prefix": "elib/zlog-integration/echolog",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_zlog-integration_echolog",
+            "source": {
+                "home": "https://github.com/goexogo/elib_zlog-integration_echolog",
+                "dir": "https://github.com/goexogo/elib_zlog-integration_echolog/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_zlog-integration_echolog/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_zlog-integration_echolog"
+            }
+        },
+        {
             "prefix": "elib/zlog-integration/pgxv4log",
             "type": "git",
             "hidden": false,
