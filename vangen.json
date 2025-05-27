@@ -101,6 +101,34 @@
             }
         },
         {
+            "prefix": "alibs/md30",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_md30",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_md30",
+                "dir": "https://github.com/goexogo/alibs_md30/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_md30/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_md30"
+            }
+        },
+        {
+            "prefix": "alibs/md3012",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_md3012",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_md3012",
+                "dir": "https://github.com/goexogo/alibs_md3012/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_md3012/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_md3012"
+            }
+        },
+        {
             "prefix": "alibs/md30c3",
             "type": "git",
             "hidden": false,
