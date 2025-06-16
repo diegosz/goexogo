@@ -885,6 +885,20 @@
             }
         },
         {
+            "prefix": "elib/epaginate",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/elib_epaginate",
+            "source": {
+                "home": "https://github.com/goexogo/elib_epaginate",
+                "dir": "https://github.com/goexogo/elib_epaginate/tree/main{/dir}",
+                "file": "https://github.com/goexogo/elib_epaginate/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/elib_epaginate"
+            }
+        },
+        {
             "prefix": "elib/erate",
             "type": "git",
             "hidden": false,
