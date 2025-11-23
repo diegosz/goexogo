@@ -143,6 +143,20 @@
             }
         },
         {
+            "prefix": "alibs/mdpdf",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_mdpdf",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_mdpdf",
+                "dir": "https://github.com/goexogo/alibs_mdpdf/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_mdpdf/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_mdpdf"
+            }
+        },
+        {
             "prefix": "alibs/osync",
             "type": "git",
             "hidden": false,
