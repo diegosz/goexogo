@@ -17,6 +17,20 @@
             }
         },
         {
+            "prefix": "alibs/asoulshake",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_asoulshake",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_asoulshake",
+                "dir": "https://github.com/goexogo/alibs_asoulshake/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_asoulshake/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_asoulshake"
+            }
+        },
+        {
             "prefix": "alibs/asubject",
             "type": "git",
             "hidden": false,
