@@ -185,6 +185,20 @@
             }
         },
         {
+            "prefix": "alibs/pdfa",
+            "type": "git",
+            "hidden": false,
+            "url": "https://github.com/goexogo/alibs_pdfa",
+            "source": {
+                "home": "https://github.com/goexogo/alibs_pdfa",
+                "dir": "https://github.com/goexogo/alibs_pdfa/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_pdfa/blob/main{/dir}/{file}#L{line}"
+            },
+            "website": {
+                "url": "https://github.com/goexogo/alibs_pdfa"
+            }
+        },
+        {
             "prefix": "alibs/ringlayer",
             "type": "git",
             "hidden": false,
