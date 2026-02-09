@@ -31,17 +31,17 @@
             }
         },
         {
-            "prefix": "alibs/asubject",
+            "prefix": "alibs/anats",
             "type": "git",
             "hidden": false,
-            "url": "https://github.com/goexogo/alibs_asubject",
+            "url": "https://github.com/goexogo/alibs_anats",
             "source": {
-                "home": "https://github.com/goexogo/alibs_asubject",
-                "dir": "https://github.com/goexogo/alibs_asubject/tree/main{/dir}",
-                "file": "https://github.com/goexogo/alibs_asubject/blob/main{/dir}/{file}#L{line}"
+                "home": "https://github.com/goexogo/alibs_anats",
+                "dir": "https://github.com/goexogo/alibs_anats/tree/main{/dir}",
+                "file": "https://github.com/goexogo/alibs_anats/blob/main{/dir}/{file}#L{line}"
             },
             "website": {
-                "url": "https://github.com/goexogo/alibs_asubject"
+                "url": "https://github.com/goexogo/alibs_anats"
             }
         },
         {
